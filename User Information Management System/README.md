@@ -1,4 +1,5 @@
-User Information Management System
+**User Information Management System**
+
 **Overview**
 This project is a full-stack CRUD application designed for managing user entries, including name, email, and address. It allows users to add, update, retrieve, and delete their data through a simple interface. This application follows the MERN stack architecture (MongoDB, Express, React, and Node.js), providing both the backend API and frontend interface for efficient user management.
 
